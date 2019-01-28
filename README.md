@@ -1,4 +1,4 @@
-# txschoolfinance - A Texas School Finance 
+# txschoolfinance
 This is a repo dedicated to creating an R package containing over 20 years worth of actual revenues + expenditures for all Texas public schools. Right now, it only contains the raw data of the data related to this package. Over time, it will be developed into a more usable R package for the purposes of data analysis now and in the years to come.
 
 ## What is this data? 
