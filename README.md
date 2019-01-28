@@ -11,6 +11,6 @@ To learn more about the PEIMS Actual Financial Data contained here, please visit
 
 ## How was this data collected?
 
-In the summer of 2017, I organized all of TEA's Annual Snapshots into a single file and reached out to the Texas Education Agency about concerns related to the financial data reported in the Annual Snapshots, given discrepancies between what was published in the Annual Snapshots & what was published in the US Census' [Annual Survey of School System] Finances(https://www.census.gov/programs-surveys/school-finances.html). The person in charge of financial reporting confirmed that some of the financial information published in TEA's Annual Snapshots were incorrect and recommended that I submit a public information request to obtain accurate records.
+In the summer of 2017, I organized all of TEA's Annual Snapshots into a single file and reached out to the Texas Education Agency about concerns related to the financial data reported in the Annual Snapshots, given discrepancies between what was published in the Annual Snapshots & what was published in the US Census' [Annual Survey of School System Finances](https://www.census.gov/programs-surveys/school-finances.html). The person in charge of financial reporting confirmed that some of the financial information published in TEA's Annual Snapshots were incorrect and recommended that I submit a public information request to obtain accurate records.
 
-This data is the result of that Public Information Request. 
+This data is the result of that public information request. 
